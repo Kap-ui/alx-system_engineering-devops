@@ -1,1 +1,0 @@
-Actual shell script directory
